@@ -54,4 +54,4 @@ def frase(s: str) -> None:
 
 #test to run the 
 if __name__ == "__main__":
-    frase("Hello world!")
+    frase("ESTUDAR PARA TRANSFORMAR O MUNDO!")
